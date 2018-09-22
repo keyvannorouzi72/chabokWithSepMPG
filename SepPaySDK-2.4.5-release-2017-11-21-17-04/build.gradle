@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('SepPaySDK-2.4.5-release-2017-11-21-17-04.aar'))
